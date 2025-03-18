@@ -1,4 +1,4 @@
-- this is a project creating in html and css using skills to make website responsive like mediaquery, and flexbox
+- this is a healthcare project created in html and css using skills to make website responsive like mediaquery, and flexbox
 - these are screenshots of the project : 
 <img width="1440" alt="Screenshot 2025-03-19 at 00 54 09" src="https://github.com/user-attachments/assets/8d457099-0ef4-4d96-96dc-451a5dfa5897" />
 <img width="1440" alt="Screenshot 2025-03-19 at 00 54 21" src="https://github.com/user-attachments/assets/f4cc4835-f390-41c0-874d-c68ed84803b1" />
